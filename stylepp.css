@@ -1,0 +1,21 @@
+body{
+    background:rgb(218, 228, 223);
+}
+h1{
+    background:rgb(92, 92, 141);
+    color:peachpuff;
+
+}
+p
+{
+    background:rgb(197, 67, 67);
+    color:white;
+}
+table{
+    border-collapse:collapse;
+    
+}
+button{
+    background:green;
+    color:black;
+}
